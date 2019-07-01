@@ -1,4 +1,4 @@
-//selecting and storing my varibles//
+////selecting and storing my varibles////
  const $name =$('#name');
  const $colorDiv=$('#colors-js-puns');
  const $color = $('#color');
